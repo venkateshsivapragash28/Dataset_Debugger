@@ -156,4 +156,3 @@ if __name__ == "__main__":
         print(f"action : {r['action']}")
         print(f"confidence : {r['confidence']}")
         print(f"reason : {r['reason']}\n")
-
